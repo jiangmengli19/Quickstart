@@ -23,6 +23,6 @@ for (gtime in 1:10) {
   
   
 }
-print(paste("correct answer is", u))
+
 print(paste("guess time is", gtime))
 #display the result
