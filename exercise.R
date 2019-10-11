@@ -16,7 +16,7 @@ for (gtime in 1:10) {
     print(paste("guess higher number,you guess", gtime, "time"))
   }
   if (inputnu == u) {
-    print("correct")
+  
     break
   }
   #compare the inputnumber with u and show the result
